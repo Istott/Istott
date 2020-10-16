@@ -6,6 +6,7 @@ Things I have learned and continue to improve:
 - JavaScript
 - ReactJS
 - Redux
+- Node.js
 - Python 🐍
 - HTML/CSS
 - Ant Design, GreenSock and other styling and animation libraries 
