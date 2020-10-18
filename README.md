@@ -18,7 +18,6 @@ Things that I am excited to learn:
 
 Feel free to contact me at:
 isaac.cloyd@gmail.com  📧
-406-450-0252 📞
 
 
 <!--
