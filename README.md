@@ -2,16 +2,16 @@ Hello Github vistor! 😃 Welcome to my Profile! 👋
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=Istott)
 
-Things I have learned and continue to improve: 
-- JavaScript
+Tech I have learned and continue to improve: 
+- JavaScript (ES6)
 - ReactJS
 - Redux
 - Node.js
-- Python 🐍
+- Python3 🐍
 - HTML/CSS
 - Ant Design, GreenSock and other styling and animation libraries 
 
-Things that I am excited to learn:
+Tech that I am excited to learn:
 - TypeScript and more specifically React TypeScript
 - Django or Flask with Python 🐍
 - React Native
