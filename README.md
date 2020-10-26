@@ -9,12 +9,13 @@ Tech I have learned and continue to improve:
 - Node.js
 - Python3 🐍
 - HTML/CSS
-- Ant Design, GreenSock and other styling and animation libraries 
+- Ant Design, GreenSock, Styled Components and other styling and animation libraries 
 
 Tech that I am excited to learn:
 - TypeScript and more specifically React TypeScript
-- Django or Flask with Python 🐍
+- Django or Flask with Python3 🐍
 - React Native
+- Anything about blockchain
 
 Feel free to contact me at:
 isaac.cloyd@gmail.com  📧
