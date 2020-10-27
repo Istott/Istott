@@ -9,6 +9,7 @@ Tech I have learned and continue to improve:
 - Node.js
 - Python3 🐍
 - HTML/CSS
+- LESS
 - Ant Design, GreenSock, Styled Components and other styling and animation libraries 
 
 Tech that I am excited to learn:
