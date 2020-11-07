@@ -2,6 +2,12 @@ Hello Github vistor! 😃 Welcome to my Profile! 👋
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=Istott)
 
+Current Project:
+- Name: Cryptobase
+- Description: an etheruem1.png Ethereum DAPP wallet
+- Tech stack: ReactJS/TS, Redux, linaria
+- Things I am learning: Defi, MetaMask, infura, web3, uniswap, blockchain, linaria 
+
 Tech I have learned and continue to improve: 
 - JavaScript (ES6)
 - ReactJS
