@@ -4,7 +4,7 @@ Hello Github vistor! 😃 Welcome to my Profile! 👋
 
 Current Project:
 - Name: Cryptobase
-- Description: an etheruem1.png Ethereum DAPP wallet
+- Description: an Ethereum DAPP wallet
 - Tech stack: ReactJS/TS, Redux, linaria
 - Things I am learning: Defi, MetaMask, infura, web3, uniswap, blockchain, linaria 
 
