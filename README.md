@@ -3,10 +3,10 @@ Hello Github visitor! 😃 Welcome to my Profile! 👋
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=Istott)
 
 Current Project:
-- Name: Cryptobase
+- Name: crypto-marketplace
 - Description: an Ethereum DAPP wallet
-- Tech stack: ReactJS, Solidity, linaria
-- Things I am learning: Defi, MetaMask, infura, web3, truffle, ganache, solidity, uniswap, blockchain, linaria 
+- Tech stack: ReactJS, Solidity, styled-components
+- Things I am learning: Defi, MetaMask, infura, web3, truffle, ganache, solidity, uniswap, blockchain, styled-components
 
 Tech I have learned and continue to improve: 
 - JavaScript (ES6)
