@@ -2,11 +2,8 @@ Hello Github visitor! 😃 Welcome to my Profile! 👋
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=Istott)
 
-Current Project:
-- Name: crypto-marketplace
-- Description: an Ethereum DAPP wallet
-- Tech stack: ReactJS, Solidity, styled-components
-- Things I am learning: Defi, MetaMask, infura, web3, truffle, ganache, solidity, uniswap, blockchain, styled-components
+I love to code and I also love to teach how to code. 
+Subscribe to my YouTube Channel 
 
 Tech I have learned and continue to improve: 
 - JavaScript (ES6)
@@ -14,8 +11,8 @@ Tech I have learned and continue to improve:
 - Redux
 - Node.js
 - Python3 🐍
-- HTML/CSS
-- LESS
+- HTML5/CSS3
+- LESS/SCSS
 - Ant Design, GreenSock, Styled Components and other styling and animation libraries 
 
 Tech that I am excited to learn:
