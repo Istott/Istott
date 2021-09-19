@@ -5,6 +5,8 @@ Hello Github visitor! 😃 Welcome to my Profile! 👋
 I love to code and I also love to teach how to code. 
 Subscribe to my YouTube Channel 
 
+https://www.youtube.com/channel/UCnLCQWDhBauRTeydbZWmsmw
+
 Tech I have learned and continue to improve: 
 - JavaScript (ES6)
 - ReactJS
