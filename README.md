@@ -2,26 +2,13 @@ Hello Github visitor! 😃 Welcome to my Profile! 👋
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=Istott)
 
-I love to code and I also love to teach how to code. 
-Subscribe to my YouTube Channel 
+I'm rarely on here anymore. I mainly use this account to test new technologies, play around learning something new or teaching/mentoring others.
 
-https://www.youtube.com/channel/UCnLCQWDhBauRTeydbZWmsmw
-
-Tech I have learned and continue to improve: 
-- JavaScript (ES6)
-- ReactJS
-- Redux
-- Node.js
-- Python3 🐍
-- HTML5/CSS3
-- LESS/SCSS
-- Ant Design, GreenSock, Styled Components and other styling and animation libraries 
-
-Tech that I am excited to learn:
-- TypeScript and more specifically React TypeScript
-- Django or Flask with Python3 🐍
-- React Native
-- Anything about blockchain
+My current favorite stack that I code in everyday at work is:
+- TypeScript
+- React
+- Redux ToolKit / Saga
+- MUI
 
 Feel free to contact me at:
 isaac.cloyd@gmail.com  📧
