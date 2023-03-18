@@ -21,7 +21,6 @@ Current tech stack I'm playing with:
 Feel free to contact me at:
 isaac.cloyd@gmail.com  📧
 
-![Snake animation](https://github.com/istott/hangman/blob/output/github-contribution-snake.svg)
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 
