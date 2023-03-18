@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
 name: Contribution snake
 
 on:
