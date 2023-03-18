@@ -8,15 +8,20 @@ Hello Github visitor! 😃 Welcome to my Profile! 👋
 
 I'm rarely on here anymore. I mainly use this account to test new technologies, play around learning something new or teaching/mentoring others.
 
-My current favorite stack that I code in everyday at work is:
-- TypeScript
-- React
-- Redux ToolKit / Saga
+Current tech stack I'm playing with:
+- React.TS
+- RTK Query / React Query
+- Vite
 - MUI
+- Plotly
+
+- Node Express TypeScript
+- PostgreSQL
 
 Feel free to contact me at:
 isaac.cloyd@gmail.com  📧
 
+![Snake animation](https://github.com/istott/blob/output/github-contribution-snake.svg)
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 
