@@ -2,6 +2,8 @@ Hello Github visitor! 😃 Welcome to my Profile! 👋
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=Istott)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 I'm rarely on here anymore. I mainly use this account to test new technologies, play around learning something new or teaching/mentoring others.
 
 My current favorite stack that I code in everyday at work is:
