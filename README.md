@@ -1,4 +1,6 @@
 Hello Github visitor! 😃 Welcome to my Profile! 👋
+<img src="https://profile-counter.glitch.me/{istott}/count.svg" alt="istott :: Visitor's Count" />
+<img src="https://komarev.com/ghpvc/?username=istott&color=brightgreen" alt="watching_count" />
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=Istott)
 
@@ -14,6 +16,8 @@ My current favorite stack that I code in everyday at work is:
 
 Feel free to contact me at:
 isaac.cloyd@gmail.com  📧
+
+![Snake animation](https://github.com/istott/github-readme/blob/output/github-contribution-snake.svg)
 
 
 <!--
@@ -31,4 +35,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
