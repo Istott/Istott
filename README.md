@@ -17,7 +17,7 @@ My current favorite stack that I code in everyday at work is:
 Feel free to contact me at:
 isaac.cloyd@gmail.com  📧
 
-![Snake animation](https://github.com/istott/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/istott/istott/blob/output/github-contribution-snake.svg)
 
 
 <!--
