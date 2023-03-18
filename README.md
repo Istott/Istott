@@ -1,5 +1,5 @@
 Hello Github visitor! 😃 Welcome to my Profile! 👋
-<img src="https://profile-counter.glitch.me/{istott}/count.svg" alt="istott :: Visitor's Count" />
+<!-- <img src="https://profile-counter.glitch.me/{istott}/count.svg" alt="istott :: Visitor's Count" /> -->
 <img src="https://komarev.com/ghpvc/?username=istott&color=brightgreen" alt="watching_count" />
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=Istott)
@@ -21,7 +21,7 @@ Current tech stack I'm playing with:
 Feel free to contact me at:
 isaac.cloyd@gmail.com  📧
 
-![Snake animation](https://github.com/istott/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/istott/hangman/blob/output/github-contribution-snake.svg)
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 
