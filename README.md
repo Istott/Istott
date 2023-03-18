@@ -2,9 +2,9 @@ Hello Github visitor! 😃 Welcome to my Profile! 👋
 <!-- <img src="https://profile-counter.glitch.me/{istott}/count.svg" alt="istott :: Visitor's Count" /> -->
 <img src="https://komarev.com/ghpvc/?username=istott&color=brightgreen" alt="watching_count" />
 
-![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=Istott)
+![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=Istott&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=istott&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=istott&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="ovi" />
 
 I'm rarely on here anymore. I mainly use this account to test new technologies, play around learning something new or teaching/mentoring others.
 
